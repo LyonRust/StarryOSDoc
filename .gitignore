@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.temp
+.vscode
+dist
+node_modules
+pnpm-global
+TODOs.md
+*.timestamp-*.mjs
